@@ -1,9 +1,13 @@
 _repo: Ferragus-eli-Salaliittolaisten-paallikko_50262
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Raitio, Volmari
     gutenberg_agent_id: '45779'
     url: http://www.gutenberg.org/2009/agents/45779
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -20,6 +24,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50262#Ferragus-eli-Salaliittolaisten-paallikko
 gutenberg_issued: '2015-10-20'
 gutenberg_type: Text
 identifiers:
